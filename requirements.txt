@@ -1,0 +1,5 @@
+numpy
+pandas
+ta-lib
+backtrader
+vnstock
